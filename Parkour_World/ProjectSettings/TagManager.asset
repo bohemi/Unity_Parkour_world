@@ -4,12 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Ground
+  - Fence
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - whatIsGround
+  - Obstacle
   - Water
   - UI
   - 
